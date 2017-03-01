@@ -1,6 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Lucida Sans Typewriter" />
+    <option name="FONT_FACE" value="Yu Gothic Light" />
+    <option name="FONT_SIZE" value="20" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
